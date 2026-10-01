@@ -1,0 +1,8 @@
+__pycache__/
+*.py[cod]
+.venv/
+.env
+.DS_Store
+
+# Private corpora (e.g. SecondBrain notes used for RAG) must never be committed
+w*/corpus/
