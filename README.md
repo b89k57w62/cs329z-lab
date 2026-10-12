@@ -11,3 +11,4 @@ Hands-on implementations while self-studying Stanford CS329Z: Engineering AI Age
 | Week | Topic | Status |
 |------|-------|--------|
 | w01 | Minimal ReAct agent loop from scratch | ✅ |
+| w02 | Structured output with JSON schema validation and retry | ✅ |

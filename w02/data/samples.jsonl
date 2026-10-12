@@ -1,0 +1,20 @@
+{"id": 1, "text": "2026-10-06 週會：Q4 行銷預算。結論：Amy 下週五前交預算草案，Ken 聯絡兩家代理商報價。預算超支風險高，優先處理。"}
+{"id": 2, "text": "Sprint planning on Oct 7, 2026. Agreed to ship the login redesign. Tom to finalize Figma specs; Lisa to set up feature flags. Normal priority."}
+{"id": 3, "text": "10/8 客訴檢討會。三筆出金延遲客訴，原因是第三方金流 timeout。行動：Jeffrey 加上重試與告警；CS 主管整理回覆範本。客戶影響大，緊急。"}
+{"id": 4, "text": "Infra sync, 2026-10-09. Discussed migrating Redis to managed service. Action: Ray to compare pricing of three vendors. Not urgent, revisit next quarter."}
+{"id": 5, "text": "2026/10/10 新人 onboarding 流程討論。HR 更新入職清單；IT 提前一天開好帳號；主管安排第一週 buddy。一般優先。"}
+{"id": 6, "text": "Retro for sprint 41 (Oct 13, 2026): deploys were slow. Actions: cache Docker layers in CI (Mike), split the integration test suite (Sara). Medium importance."}
+{"id": 7, "text": "下週三和法務開會確認新版服務條款。會前 Jenny 要把修訂對照表寄給大家。法規期限逼近，要盡快。"}
+{"id": 8, "text": "2026-10-14 資安例會。發現一個 admin API 缺少權限檢查。行動：立即修補並補測試（Jeffrey）；稽核其他 admin endpoint（Kevin）。最高優先。"}
+{"id": 9, "text": "Design review, October 15 2026. Mobile wallet home screen approved with minor tweaks. Anna to update icons; Ben to write copy for empty states. Low priority polish."}
+{"id": 10, "text": "10/16 財務對帳會議。九月對帳差額 1,250 元已找到原因：手續費重複計算。行動：會計部更正分錄，工程補單元測試。中等優先。"}
+{"id": 11, "text": "Quarterly planning kickoff — 2026-10-19. Each team lead submits top 3 OKRs by Friday. PM office consolidates into one deck. High priority for leadership."}
+{"id": 12, "text": "2026-10-20 午餐分享會：主題是 LLM agent 的 context engineering。氣氛不錯，沒有具體待辦事項。"}
+{"id": 13, "text": "Vendor call on 21 Oct 2026 about SMS gateway outages. Vendor promised a postmortem. Action: Paul to evaluate a backup SMS provider. Urgent, users can't receive OTP."}
+{"id": 14, "text": "10 月 22 日 App 上架審查回饋。Apple 退件，原因是缺少帳號刪除功能。行動：前端加刪除入口（Leo），後端提供刪除 API（Jeffrey）。高優先，影響上架時程。"}
+{"id": 15, "text": "2026-10-23 隨意聊了一下明年要不要換監控工具，大家意見分歧，可能找時間 PoC 看看，Ian 說他有空可以先研究。"}
+{"id": 16, "text": "Hiring sync 2026-10-26: two backend candidates passed onsite. Actions: HR to send offers; Grace to prepare onboarding plan. Medium."}
+{"id": 17, "text": "2026/10/27 資料庫效能檢討。報表查詢超過 30 秒。行動：Kevin 加索引並改成分頁；Jeffrey review SQL。中優先。"}
+{"id": 18, "text": "Marketing standup, Oct 28, 2026. Campaign landing page goes live Nov 1. Actions: Zoe to final-check translations; Dan to set up tracking pixels. High priority, hard deadline."}
+{"id": 19, "text": "團隊聚餐規劃：決定去吃火鍋，Wendy 負責訂位、Max 統計人數。不急。"}
+{"id": 20, "text": "2026-10-30 年度災難復原演練檢討。RTO 超出目標 20 分鐘。行動：Ray 自動化 DB failover；Jeffrey 更新 runbook。高優先。"}
