@@ -6,3 +6,7 @@ __pycache__/
 
 # Private corpora (e.g. SecondBrain notes used for RAG) must never be committed
 w*/corpus/
+
+# Third-party course repo and downloaded spec copies
+w04/assignment1-harness/
+w04/materials/
