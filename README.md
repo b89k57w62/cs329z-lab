@@ -13,4 +13,4 @@ Hands-on implementations while self-studying Stanford CS329Z: Engineering AI Age
 | w01 | Minimal ReAct agent loop from scratch | ✅ |
 | w02 | Structured output with JSON schema validation and retry | ✅ |
 | w03 | RAG from scratch: BM25, citations, refusal, retrieval eval | ✅ |
-| w04 | Tool use + MCP: HW1 assignment1-harness | ⏳ |
+| w04 | HW1 agentic harness: tool protocol, agent loop, compaction, memory, guardrails | ✅ |
